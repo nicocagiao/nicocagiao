@@ -1,5 +1,5 @@
 <h1 align="center">Hola! soy Nico</h1>
-<h3 align="center">Desarrollador Fullstack en búsqueda de una carrera IT</h3>
+<h3 align="center">Desarrollador Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicocagiao&label=Profile%20views&color=0e75b6&style=flat" alt="nicocagiao" /> </p>
 
@@ -10,8 +10,6 @@
 - 👯 Me gustaría colaborar en proyectos **Open Source**
 
 - 🤝 Busco ayuda para corregir mis **proyectos**
-
-- 👨‍💻 Mis proyectos: [En este Github](En este Github)
 
 - 📝 A veces escribo algo en [https://medium.com/@nicolascagiao](https://medium.com/@nicolascagiao)
 
