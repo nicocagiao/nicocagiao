@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicocagiao" target="blank"><img src="https://img.shields.io/twitter/follow/nicocagiao?logo=twitter&style=for-the-badge" alt="nicocagiao" /></a> </p>
 
-- 🌱 Estoy estudiando **Python, OpenCV, todo lo que tenga que ver con Data Analysis**
+- 🌱 Javascript Fullstack developer - Estoy estudiando **Python, OpenCV, todo lo que tenga que ver con Data Analysis**
 
 - 👯 Me gustaría colaborar en proyectos **Open Source**
 
